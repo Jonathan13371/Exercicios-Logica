@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Trainamento BASico C#\\Exercios\\Variaveis\\Exercicio_01\\Exercicio1.cs\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDA495F-EA15-47B6-99AC-4C8E0725A754}|Exercicio1.cs\\Exercicio1.cs.csproj|D:\\Trainamento BASico C#\\Exercios\\Variaveis\\Exercicio_01\\Exercicio1.cs\\Exercicio1.cs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDA495F-EA15-47B6-99AC-4C8E0725A754}|Exercicio1.cs\\Exercicio1.cs.csproj|solutionrelative:Exercicio1.cs\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CDA495F-EA15-47B6-99AC-4C8E0725A754}|Exercicio1.cs\\Exercicio1.cs.csproj|d:\\trainamento basico c#\\exercios\\variaveis\\exercicio_01\\exercicio1.cs\\exercicio1.cs\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CDA495F-EA15-47B6-99AC-4C8E0725A754}|Exercicio1.cs\\Exercicio1.cs.csproj|solutionrelative:exercicio1.cs\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "D:\\Trainamento BASico C#\\Exercios\\Variaveis\\Exercicio_01\\Exercicio1.cs\\Exercicio1.cs\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Exercicio1.cs\\Pessoa.cs",
+              "ToolTip": "D:\\Trainamento BASico C#\\Exercios\\Variaveis\\Exercicio_01\\Exercicio1.cs\\Exercicio1.cs\\Pessoa.cs",
+              "RelativeToolTip": "Exercicio1.cs\\Pessoa.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T18:40:23.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Trainamento BASico C#\\Exercios\\Variaveis\\Exercicio_01\\Exercicio1.cs\\Exercicio1.cs\\Program.cs",
+              "RelativeDocumentMoniker": "Exercicio1.cs\\Program.cs",
+              "ToolTip": "D:\\Trainamento BASico C#\\Exercios\\Variaveis\\Exercicio_01\\Exercicio1.cs\\Exercicio1.cs\\Program.cs",
+              "RelativeToolTip": "Exercicio1.cs\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T18:39:18.231Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

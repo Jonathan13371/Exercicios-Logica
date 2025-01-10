@@ -1,0 +1,7 @@
+D:\Trainamento BASico C#\Exercios\Variaveis\Exercicio_01\Exercicio1.cs\Exercicio1.cs\bin\Debug\Exercicio1.cs.exe.config
+D:\Trainamento BASico C#\Exercios\Variaveis\Exercicio_01\Exercicio1.cs\Exercicio1.cs\bin\Debug\Exercicio1.cs.exe
+D:\Trainamento BASico C#\Exercios\Variaveis\Exercicio_01\Exercicio1.cs\Exercicio1.cs\bin\Debug\Exercicio1.cs.pdb
+D:\Trainamento BASico C#\Exercios\Variaveis\Exercicio_01\Exercicio1.cs\Exercicio1.cs\obj\Debug\Exercicio1.cs.csproj.AssemblyReference.cache
+D:\Trainamento BASico C#\Exercios\Variaveis\Exercicio_01\Exercicio1.cs\Exercicio1.cs\obj\Debug\Exercicio1.cs.csproj.CoreCompileInputs.cache
+D:\Trainamento BASico C#\Exercios\Variaveis\Exercicio_01\Exercicio1.cs\Exercicio1.cs\obj\Debug\Exercicio1.cs.exe
+D:\Trainamento BASico C#\Exercios\Variaveis\Exercicio_01\Exercicio1.cs\Exercicio1.cs\obj\Debug\Exercicio1.cs.pdb
